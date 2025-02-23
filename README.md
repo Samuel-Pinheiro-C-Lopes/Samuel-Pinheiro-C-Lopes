@@ -1,7 +1,8 @@
 # About Me
 
 ## Summary
-My name is Samuel and I am a undergraduate in systems development at <a href="https://portal.ifba.edu.br/salvador">Bahia's Federal Institute of Education, Science and Technology (IFBA)</a> and a developer working for <a href="https://computacaobrasil.com.br/">Computação Brasil (CB)</a> as an intern, seeking to improve my technical and interpersonal skills.
+My name is Samuel and I am a undergraduate in systems development at <a href="https://portal.ifba.edu.br/salvador">Bahia's Federal Institute of Education, Science and Technology (IFBA)</a> and a developer working for <a href="https://computacaobrasil.com.br/">Computação Brasil (CB)</a> as an intern.
+Always seeking to improve my technical and interpersonal skills, I am currenctly aiming to be a complete Spring Boot and Angular developer.
 
 ## Languages and Tools
 
