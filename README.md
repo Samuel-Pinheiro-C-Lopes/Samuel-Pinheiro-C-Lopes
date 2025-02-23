@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Pinheiro-C-Lopes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Pinheiro-C-Lopes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Samuel-Pinheiro-C-Lopes/Samuel-Pinheiro-C-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
