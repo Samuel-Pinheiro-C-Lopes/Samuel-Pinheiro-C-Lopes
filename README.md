@@ -1,30 +1,13 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://angular.io/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com/en/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/sqlserver/sqlserver-original.svg" alt="sqlserver" width="40" height="40"/>
-    </a>
-</p>
+### Languages and Tools:
+
+[![Angular](https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg)](https://angular.io/)
+[![TypeScript](https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
+[![C#](https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg)](https://www.java.com/en/)
+[![HTML5](https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+[![CSS3](https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+[![JavaScript](https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL Server](https://devicons.github.io/devicon/devicon.git/icons/sqlserver/sqlserver-original.svg)](https://www.microsoft.com/en-us/sql-server)
 
 # My GitHub stats 
 
